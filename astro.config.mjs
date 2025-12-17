@@ -5,8 +5,7 @@ import starlightBlog from 'starlight-blog'
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://nexa-tr.github.io/website',
-	base: '/website',
+	site: 'https://nexa-tr.com',
 	integrations: [
 		starlight({
 			plugins: [starlightBlog()],
