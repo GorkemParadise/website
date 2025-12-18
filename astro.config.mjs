@@ -28,7 +28,7 @@ export default defineConfig({
 					items: [
 						{ label: 'Üyelerimiz', slug: 'info/members' },
 						{ label: 'Biz Kimiz', slug: 'info/who-we-are' },
-						{ label: 'İletişim', slug: 'info/contact' },
+						{ label: 'Sıkça Sorular Sorular', slug: 'info/questions' },
 					],
 				},
 				{
@@ -36,6 +36,8 @@ export default defineConfig({
 					items: [
 						{ label: 'Proje 1', slug: 'projects/project-1' },
 						{ label: 'Proje 2', slug: 'projects/project-2' },
+						{ label: 'Proje 3', slug: 'projects/project-3' },
+						{ label: 'Proje 4', slug: 'projects/project-4' },
 					],
 				},
 			]
