@@ -20,24 +20,25 @@ export default defineConfig({
 				{
 					label: 'Duyurular',
 					items: [
-						{ label: 'Ekip alımları', slug: 'announcements/recruitment' },
+						{ label: 'Ekip alımları', slug: 'duyurular/ekip-alimlari-1' },
 					],
 				},
 				{
 					label: 'Hakkımızda',
 					items: [
-						{ label: 'Üyelerimiz', slug: 'info/members' },
-						{ label: 'Biz Kimiz', slug: 'info/who-we-are' },
-						{ label: 'Sıkça Sorular Sorular', slug: 'info/questions' },
+						{ label: 'Üyelerimiz', slug: 'bilgi/uyeler' },
+						{ label: 'Biz Kimiz', slug: 'bilgi/hakkimizda' },
+						{ label: 'Proje Süreçleri', slug: 'bilgi/surec' },
+						{ label: 'Sıkça Sorular Sorular', slug: 'bilgi/sorular' },
 					],
 				},
 				{
 					label: 'Projeler',
 					items: [
-						{ label: 'Proje 1', slug: 'projects/project-1' },
-						{ label: 'Proje 2', slug: 'projects/project-2' },
-						{ label: 'Proje 3', slug: 'projects/project-3' },
-						{ label: 'Proje 4', slug: 'projects/project-4' },
+						{ label: 'Proje 1', slug: 'projeler/proje-1' },
+						{ label: 'Proje 2', slug: 'projeler/proje-2' },
+						{ label: 'Proje 3', slug: 'projeler/proje-3' },
+						{ label: 'Proje 4', slug: 'projeler/proje-4' },
 					],
 				},
 			]
