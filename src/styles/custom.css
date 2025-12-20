@@ -27,3 +27,7 @@
 	--sl-color-gray-7: #f4f7f8;
 	--sl-color-black: #ffffff;
 }
+
+a[href$="/blog/rss.xml"] {
+	display: none !important;
+	}  
