@@ -1,49 +1,68 @@
-# Starlight Starter Kit: Basics
+# 🚀 NEXA — Network for Experimental Advanced Engineering
 
-[![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
+NEXA, yarım yamalak yapılan işlerin normalleştiği bir dünyada **işini doğru yapan mühendisler** yetiştirmeyi hedefleyen bir topluluktur.  
+Amacımız; bugünün problemlerini çözerken, geleceğin teknolojilerine bugünden hazırlanmak.
 
-```
-bun create astro@latest -- --template starlight
-```
+---
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## 🌍 Biz Kimiz?
 
-## 🚀 Project Structure
+NEXA, farklı üniversitelerden ve mühendislik disiplinlerinden öğrencilerin bir araya gelerek:
+- Üreten  
+- Öğrenen  
+- Araştıran  
+- Sorumluluk alan  
 
-Inside of your Astro + Starlight project, you'll see the following folders and files:
+bir ekip kültürü oluşturduğu bir topluluktur.
 
-```
-.
-├── public/
-├── src/
-│   ├── assets/
-│   ├── content/
-│   │   └── docs/
-│   └── content.config.ts
-├── astro.config.mjs
-├── package.json
-└── tsconfig.json
-```
+---
 
-Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory. Each file is exposed as a route based on its file name.
+## 🎯 Ne Yapıyoruz?
 
-Images can be added to `src/assets/` and embedded in Markdown with a relative link.
+- 🧠 **Gerçek problemler üzerine projeler** geliştiriyoruz  
+- 💻 **Yazılım, algoritma ve teknoloji odaklı çalışmalar** yapıyoruz  
+- 🤝 **Akademisyenler ve farklı topluluklarla iletişim** kuruyoruz  
+- 📊 **Veri toplayıp analiz ederek** karar alıyoruz  
+- 🌱 Yeni başlayanları **ödevlendirme ve kamp çalışmalarıyla** destekliyoruz  
 
-Static assets, like favicons, can be placed in the `public/` directory.
+Projelerimizin:
+- %30’u bugünün ihtiyaçlarına  
+- %70’i ise geleceğin problemlerine odaklanır.
 
-## 🧞 Commands
+---
 
-All commands are run from the root of the project, from a terminal:
+## 🏗️ Ekip Yapımız
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `bun install`             | Installs dependencies                            |
-| `bun dev`             | Starts local dev server at `localhost:4321`      |
-| `bun build`           | Build your production site to `./dist/`          |
-| `bun preview`         | Preview your build locally, before deploying     |
-| `bun astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `bun astro -- --help` | Get help using the Astro CLI                     |
+- 👑 **Kurucu**
+- 🧑‍💼 **Yönetim Ekibi:** Yazılım Lideri, Koordinatör Lideri, Topluluk Lideri
+- 💻 **Yazılım Ekibi:** Yazılım Geliştirme Sorumlusu
+- 🤝 **Koordinatör Ekibi:** Tasarımcı, Sosyal Medya Sorumlusu, Araştırmacı
+- ⚡ **Aktif Üyeler:**
 
-## 👀 Want to learn more?
+---
 
-Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
+## 🧠 Felsefemiz
+
+> Bir problemin çözümü yoksa, yeterince düşünülmemiştir.  
+> Biz düşünür, üretir ve uygularız.
+> İmkansız diye bir şey yoktur ayarlicazhocam
+
+---
+
+## 📌 Katkı Sağlamak
+
+NEXA açık bir topluluktur.  
+Öğrenmeye istekliysen, sorumluluk almaktan çekinmiyorsan ve üretmek istiyorsan **aramıza katılabilirsin**.
+
+> Bilmek şart değil, öğrenmek şart.
+
+---
+
+## 🔗 İletişim
+
+- 🌐 Web: https://nexa-tr.com  
+- 📬 Mail: nexacommunity0@gmail.com
+
+---
+
+**NEXA — Engineering the Next.**
