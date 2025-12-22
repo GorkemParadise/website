@@ -13,7 +13,7 @@ NEXA, farklı üniversitelerden ve mühendislik disiplinlerinden öğrencilerin 
 - Araştıran  
 - Sorumluluk alan  
 
-bir ekip kültürü oluşturduğu bir topluluktur.
+bir ekip kültürü oluşturduğu bir topluluktur...
 
 ---
 
