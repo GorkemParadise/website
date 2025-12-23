@@ -1,6 +1,6 @@
 # 🚀 NEXA — Network for Experimental Advanced Engineering
 
-NEXA, yarım yamalak yapılan işlerin normalleştiği bir dünyada **işini doğru yapan mühendisler** yetiştirmeyi hedefleyen bir topluluktur.  
+NEXA, eksik ve düzensiz yapılan işlerin normalleştiği bir dünyada **işini doğru yapan mühendisler** yetiştirmeyi hedefleyen bir topluluktur.  
 Amacımız; bugünün problemlerini çözerken, geleceğin teknolojilerine bugünden hazırlanmak.
 
 ---
